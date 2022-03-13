@@ -1,11 +1,11 @@
-## phone-numbers
+# phone-numbers
 
 
-Phone numbers is a small application for listing all phones in the system, categorizing them by country and state.
+Phone numbers is a small application for listing all phones in the system, categorizing them by country and state, country code and number.
 
 You can filter the phone list by country or by phone state (valid-invalid).
 
-# Local Build
+## Local Build
 - Clone the project using
     ```sh
     git clone git@github.com:MinaZakaria/phone-numbers.git
@@ -25,7 +25,7 @@ You can filter the phone list by country or by phone state (valid-invalid).
     ```
 - Open your browser with url `localhost:8000`
 
-# Testing app
+## Testing app
 - You can run Feature/Unit tests using
     ```sh
     php artisan test
